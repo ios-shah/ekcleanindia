@@ -1,0 +1,19 @@
+<center><img src="http://ekcleanindia.com/LOGO.png" height=100>
+<br>
+<font size="5" color="blue" face="calibri"><b>  EK Clean INDIA!!!</b></font>
+</center>
+<hr>
+<CENTER><font size=6 face="aerial"><b STYLE="text-transform: uppercase;">
+<<NAME>></style></b> </font>
+<b>YOUR <font color="red">DONATION</font> REQUEST HAS BEEN ACCEPTED..</b>
+<br>
+<font size=2 color="blue">EMAIL: <<EMAIL>><BR><DIV STYLE="text-transform: uppercase;">CITY: <<CITY>>,<<COUNTRY>></DIV>POSTCODE: <<POSTCODE>><BR>CONTACT NO:<<phone no>><BR></FONT>
+<FONT COLOR="GREEN" SIZE=3>AMOUNT: <B>₹<<AMOUNT>></B></font><BR>
+As you proceed, you will be taken to a secure payment page, where you perform the transfer of your gift.
+<a href="http://www.ekcleanindia.com/">
+<img src="http://www.ekcleanindia.com/donate%20now%202-01.png" height=60></a></center>
+
+Regards,
+EK CLEAN INDIA
+<a href="http://www.ekcleanindia.com/">www.ekcleanindia.com</a>
+   
